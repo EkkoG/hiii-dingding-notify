@@ -5,7 +5,7 @@
 ### 安装
 
 ```
-pipenv install -e git+ssh://https://github.com/cielpy/hiii-dingding-notify.git#egg=hiii-dingding-notify
+pipenv install -e git+ssh://https://github.com/cielpy/hiii-dingding-notify.git@master#egg=hiii-dingding-notify
 ```
 
 ### 使用
