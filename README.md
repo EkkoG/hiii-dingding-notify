@@ -13,5 +13,5 @@ pipenv install -e git+https://github.com/cielpy/hiii-dingding-notify.git@master#
 ```python
 from dingding_notify.dingding_notify import send_message
 
-send('通知内容', ['token'])
+send_message('通知内容', ['token'])
 ```
